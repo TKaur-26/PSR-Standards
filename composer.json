@@ -1,0 +1,13 @@
+
+{
+    "name": "student/php-day-5-psr-standards",
+    "description": "Student Management CLI following PHP coding standards",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
